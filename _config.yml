@@ -26,8 +26,8 @@ author: pion-pace
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://pion-pace.github.io'
-baseurl: '/open-2023'
-urlimg: '/open-2023/images'
+baseurl: '/open-2023/'
+urlimg: '/open-2023/images/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
