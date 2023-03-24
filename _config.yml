@@ -33,14 +33,6 @@ urlimg: '/open-2023/images'
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/pion-pace/open-2023
 
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-#
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
-urlimg: '/images/'
-
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
@@ -49,7 +41,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
+    - jekyll-leaflet
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
