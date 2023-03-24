@@ -41,7 +41,6 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-    - jekyll-leaflet
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
